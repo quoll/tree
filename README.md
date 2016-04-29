@@ -18,6 +18,6 @@ None yet. This version will not have free lists, and will be a write-once tree.
 
 ## License
 
-Copyright © 2013 Paul Gearon
+Copyright © 2013 Paula Gearon
 
 Distributed under the Eclipse Public License, the same as Clojure.
